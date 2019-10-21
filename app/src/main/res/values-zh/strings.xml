@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MultiLanguage</string>
+    <string name="language_cn">中文</string>
+    <string name="language_in">英文</string>
+    <string name="language_en">印尼</string>
+    <string name="language_auto">默认</string>
+</resources>

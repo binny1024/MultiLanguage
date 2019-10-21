@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MultiLanguage</string>
+    <string name="language_cn">default中文</string>
+    <string name="language_in">default英文</string>
+    <string name="language_en">default印尼</string>
+    <string name="language_auto">default默认</string>
+</resources>
